@@ -1,0 +1,9 @@
+Nama: Jukik
+NIM: 71243442
+Jurusan: Teknik Informatika
+Universitas: Universitas Kristen Duta Wacana
+Semester: 4
+Mata Kuliah: Praktikum Algoritma dan Pemrograman
+Nilai: 90
+Status: Aktif
+Email: jukikz@student.ukdw.ac.id

@@ -1,0 +1,8 @@
+Nama: Junho
+NIM: 71243321
+Jurusan: Teknik Informatika
+Universitas: Universitas Kristen Duta Wacana
+Semester: 4
+Mata Kuliah: Algoritma dan Pemrograman
+Nilai: 85
+Status: Aktif
