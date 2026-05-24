@@ -1,0 +1,5 @@
+Java adalah bahasa pemrograman yang kuat dan banyak digunakan di industri enterprise.
+Banyak developer handal menggunakan Java untuk membangun aplikasi mobile dan web berskala besar.
+Java dikenal karena konsep berorientasi objek dan portabilitasnya yang tinggi.
+Komunitas Java juga sangat besar dengan ribuan library siap pakai.
+Python dan Java sama-sama bahasa yang populer di dunia pemrograman modern.

@@ -1,0 +1,5 @@
+Python adalah bahasa pemrograman yang populer dan mudah dipelajari.
+Banyak developer menggunakan Python untuk membuat aplikasi web, analisis data, dan kecerdasan buatan.
+Python dikenal karena sintaksnya yang bersih dan mudah dibaca.
+Komunitas Python sangat besar dan aktif di seluruh dunia.
+Dengan Python, kita bisa membangun proyek dari skala kecil hingga enterprise.
